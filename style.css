@@ -7,5 +7,10 @@
 }
 body{
     background-color: var(--fundo);
-    
+    color: var(--branco);
+}
+
+*{
+    margin: 0;
+    padding: 0;
 }
